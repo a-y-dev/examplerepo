@@ -65,4 +65,4 @@ update employee set
 where id = 1
 
 delete from employee
-where name = 'Dasi'
+where name = 'Felipa'
